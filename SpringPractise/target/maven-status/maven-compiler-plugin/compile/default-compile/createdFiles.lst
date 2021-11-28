@@ -1,0 +1,12 @@
+com\example\SpringPractise\controllers\PractiseController.class
+com\example\SpringPractise\models\PasswordValidation.class
+com\example\SpringPractise\models\UpdateRequest.class
+com\example\SpringPractise\helpers\ValidateHelper.class
+com\example\SpringPractise\requests\LoginRequest.class
+com\example\SpringPractise\constants\Constants.class
+com\example\SpringPractise\helpers\TokenHelper.class
+com\example\SpringPractise\models\User.class
+com\example\SpringPractise\SpringPractiseApplication.class
+com\example\SpringPractise\controllers\HelloController.class
+com\example\SpringPractise\models\CheckUniqueness.class
+com\example\SpringPractise\services\UserService.class
